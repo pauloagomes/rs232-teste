@@ -1,0 +1,8 @@
+G:\Documents\Visual Studio 2012\Projects\rs232\bin\RS232.exe
+G:\Documents\Visual Studio 2012\Projects\rs232\bin\RS232.pdb
+G:\Documents\Visual Studio 2012\Projects\rs232\bin\RS232.xml
+G:\Documents\Visual Studio 2012\Projects\rs232\obj\Debug\RS232.Form1.resources
+G:\Documents\Visual Studio 2012\Projects\rs232\obj\Debug\RS232.vbproj.GenerateResource.Cache
+G:\Documents\Visual Studio 2012\Projects\rs232\obj\Debug\RS232.exe
+G:\Documents\Visual Studio 2012\Projects\rs232\obj\Debug\RS232.xml
+G:\Documents\Visual Studio 2012\Projects\rs232\obj\Debug\RS232.pdb
